@@ -27,7 +27,8 @@ int main()
 	int Panjang, Lebar, Luas;
 	cout << "Masukan Panjangnya=";
 	cin >> Panjang;
-	
+	cout << "Masukan Lebarnya=";
+	cin >> Lebar;
 
 
 
